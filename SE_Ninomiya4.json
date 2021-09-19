@@ -3,7 +3,7 @@
   "se":{
     "4":{"url":"https://raw.githubusercontent.com/Siruiy/Tenhou_SE_Kurono/main/SE/SE_KACHI1.wav"},
     "5":{"url":"https://raw.githubusercontent.com/Siruiy/Tenhou_SE_Kurono/main/SE/SE_KACHI2.wav"},
-    "6":{"url":"https://raw.githubusercontent.com/Siruiy/Tenhou_SE_Kurono/main/SE_NinomiyaHana/fan_dong.mp3"},
+    "6":{"url":"https://raw.githubusercontent.com/Siruiy/Tenhou_SE_Kurono/main/SE/SE_DA.wav"},
     "9":{"url":"https://raw.githubusercontent.com/Siruiy/Tenhou_SE_Kurono/main/SE_NinomiyaHana/ingame_baopai.mp3"},
     "10":{"url":"https://raw.githubusercontent.com/Siruiy/Tenhou_SE_Kurono/main/SE_NinomiyaHana/game_top.mp3"},
     "11":{"url":"https://raw.githubusercontent.com/Siruiy/Tenhou_SE_Kurono/main/SE/SE_YAKU.wav"},
@@ -13,5 +13,6 @@
     "31":{"url":"https://raw.githubusercontent.com/Siruiy/Tenhou_SE_Kurono/main/SE_NinomiyaHana/act_rich.mp3"},
     "33":{"url":"https://raw.githubusercontent.com/Siruiy/Tenhou_SE_Kurono/main/SE_NinomiyaHana/act_ron.mp3"},
     "35":{"url":"https://raw.githubusercontent.com/Siruiy/Tenhou_SE_Kurono/main/SE_NinomiyaHana/act_tumo.mp3"}
+    "40":{"url":"https://raw.githubusercontent.com/Siruiy/Tenhou_SE_Kurono/main/SE_NinomiyaHana/lobby_playerlogin.mp3"}
   }
 }

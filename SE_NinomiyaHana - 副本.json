@@ -1,6 +1,12 @@
 {
   "ver":1.0,
   "se":{
+    "4":{"url":"https://raw.githubusercontent.com/Siruiy/Tenhou_SE_Kurono/main/SE/SE_KACHI1.wav"},
+    "5":{"url":"https://raw.githubusercontent.com/Siruiy/Tenhou_SE_Kurono/main/SE/SE_KACHI2.wav"},
+    "6":{"url":"https://raw.githubusercontent.com/Siruiy/Tenhou_SE_Kurono/main/SE_NinomiyaHana/fan_dong.mp3"},
+    "9":{"url":"https://raw.githubusercontent.com/Siruiy/Tenhou_SE_Kurono/main/SE_NinomiyaHana/ingame_baopai.mp3"},
+    "10":{"url":"https://raw.githubusercontent.com/Siruiy/Tenhou_SE_Kurono/main/SE_NinomiyaHana/game_top.mp3"},
+    "11":{"url":"https://raw.githubusercontent.com/Siruiy/Tenhou_SE_Kurono/main/SE/SE_YAKU.wav"},
     "25":{"url":"https://raw.githubusercontent.com/Siruiy/Tenhou_SE_Kurono/main/SE_NinomiyaHana/act_pon.mp3"},
     "27":{"url":"https://raw.githubusercontent.com/Siruiy/Tenhou_SE_Kurono/main/SE_NinomiyaHana/act_kan.mp3"},
     "29":{"url":"https://raw.githubusercontent.com/Siruiy/Tenhou_SE_Kurono/main/SE_NinomiyaHana/act_chi.mp3"},
